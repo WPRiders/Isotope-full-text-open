@@ -1,0 +1,1 @@
+Isotope-full-text-open
